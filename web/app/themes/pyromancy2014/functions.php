@@ -1,6 +1,6 @@
 <?php
 
-require_once("Thumbnail_Walker.php");
+//require_once("Thumbnail_Walker.php");
 
 add_action( 'after_setup_theme', 'pyromancy_setup' );
 add_action( 'wp_enqueue_scripts', 'pyromancy_load_javascript_files' );
