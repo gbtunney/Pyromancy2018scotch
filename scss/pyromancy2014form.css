@@ -1,0 +1,9 @@
+.nf-form-content input {
+  background-color: #4c3b25;
+  border: 1px solid #7b6d5c;
+  color: #bdba9c;
+  font-family: verdana, arial, tahoma, sans-serif;
+  font-size: 8pt;
+  padding: 2px 2px 2px 4px;
+  width: 70%;
+}
